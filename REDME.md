@@ -1,0 +1,1 @@
+En este proyecto, trataremos de crear un sistema de turnos en linea de una clinica, en el cual, tenga una opcion para el paciente y una opcion distinta para el medico.
